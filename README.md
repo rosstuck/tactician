@@ -1,5 +1,10 @@
 # Tactician
 
+## This repo has moved!
+...To The League of Extraordinary Packages. You can [find it here instead](https://github.com/thephpleague/tactician).
+
+This repo will remain up for a short time and later be removed so please update any links, dependencies, stars or watches. Thanks! :)
+
 [![Travis CI](https://api.travis-ci.org/rosstuck/tactician.svg?branch=master)](https://travis-ci.org/rosstuck/tactician)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/rosstuck/tactician/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/rosstuck/tactician/?branch=master)
 [![Build Status](https://scrutinizer-ci.com/g/rosstuck/tactician/badges/build.png?b=master)](https://scrutinizer-ci.com/g/rosstuck/tactician/build-status/master)
